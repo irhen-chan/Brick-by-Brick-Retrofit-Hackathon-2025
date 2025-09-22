@@ -92,7 +92,7 @@ We grounded our design in **data-driven research**:
 
 ## 📊 Tools & Methods  
 - **Data Science**: Python, Jupyter Notebook (`meteostat`, `pandas`, `matplotlib`)  
-- **Design**: AutoCAD, Rhino, Adobe Suite, MidJourney (renders)  
+- **Design**: Grasshopper, Rhino, Adobe Suite, MidJourney, Minecraft
 - **Collaboration**: Miro, Figma, Hackathon sprint workflow  
 
 ---

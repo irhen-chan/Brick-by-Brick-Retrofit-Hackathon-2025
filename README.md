@@ -9,6 +9,8 @@
 
 Organized by Monash Art Design and Architecture Student Society x Monash Sustainable Buildings
 
+![WhatsApp Image 2025-09-23 at 00 11 14_3deeb336](https://github.com/user-attachments/assets/027cb030-e364-4b98-a742-93ead917bb7a)
+
 ---
 
 ## 📌 Project Overview  

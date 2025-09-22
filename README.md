@@ -100,13 +100,13 @@ We grounded our design in **data-driven research**:
 ## 👥 Team  
 We’re **Team Bricked Up**:  
 - Neo  
-- My  
-- Kiny  
-- Snehar  
-- Shlok  
-- Oliver  
+- My le 
+- Kiny tran 
+- Snehar Singh
+- Shlok Trivedi
+- Oliver Chan 
 
-*A cross-disciplinary team: 3 Data Science + 3 Design students.*  
+*A cross-disciplinary team: 3 Data Science + 3 Design ( Interior design + Architecture ) students.*  
 
 ---
 

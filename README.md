@@ -1,11 +1,13 @@
 # 🧱 Bricking Bad – Hackathon Project  
 
-**Team Bricked Up – Design Hackathon 2025**  
+**Team Bricked Up – Retrofit Hackathon 2025**  
 
 ---
 
 ## 🏆 Achievement  
-**2nd Place Winner** at the *Design Hackathon 2025*.  
+**2nd Place Winner** at the *Brick by Brick Retrofit Hackathon 2025*. 
+
+Organized by Monash Art Design and Architecture Student Society x Monash Sustainable Buildings
 
 ---
 

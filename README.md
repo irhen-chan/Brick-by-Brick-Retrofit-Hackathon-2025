@@ -11,6 +11,8 @@ Organized by Monash Art Design and Architecture Student Society x Monash Sustain
 
 ![WhatsApp Image 2025-09-23 at 00 11 14_3deeb336](https://github.com/user-attachments/assets/027cb030-e364-4b98-a742-93ead917bb7a)
 
+![SECOND- SNEHAR SINGH GUJRAL (2)_250925_182335](https://github.com/user-attachments/assets/a5611b21-391c-4ad8-9ce2-f2508256ecd5)
+
 ---
 
 ## 📌 Project Overview  
